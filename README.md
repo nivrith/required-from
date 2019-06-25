@@ -1,6 +1,8 @@
 # required-from
+
 [![CircleCI](https://circleci.com/gh/nivrith/required-from/tree/master.svg?style=svg)](https://circleci.com/gh/nivrith/required-from/tree/master)
-[![NPM Downloads](https://img.shields.io/npm/dw/required-from.svg)](https://github.com/nivrith/required-from/blob/master/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dw/required-from.svg)](https://www.npmjs.com/package/required-from)
+[![node](https://img.shields.io/node/v/required-from.svg)](https://www.npmjs.com/package/required-from)
 [![License MIT](https://img.shields.io/github/license/nivrith/required-from.svg)](https://github.com/nivrith/required-from/blob/master/LICENSE)
 
 Get absolute path to the module that required your module
