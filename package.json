@@ -1,6 +1,6 @@
 {
 	"name": "required-from",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Get absolute path to the module that required your module",
 	"main": "index.js",
 	"repository": "https://github.com/nivrith/required-from",
