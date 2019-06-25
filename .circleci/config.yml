@@ -38,7 +38,7 @@ jobs:
 
 workflows:
   version: 2
-  "webpack-config-addons":
+  "required-from":
     jobs:
       - node-latest
       - node-10
