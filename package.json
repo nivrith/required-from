@@ -1,0 +1,18 @@
+{
+  "name": "required-from",
+  "version": "1.0.0",
+  "description": "Get absolute path to the module that required your module",
+  "main": "index.js",
+  "repository": "https://github.com/nivrith/required-from",
+  "author": "Nivrith <nivrith.mandayam@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "nyc mocha index.spec"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "mocha": "^6.1.4",
+    "mock-require": "^3.0.3",
+    "nyc": "^14.1.1"
+  }
+}
