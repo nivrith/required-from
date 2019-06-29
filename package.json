@@ -8,7 +8,8 @@
 	"license": "MIT",
 	"scripts": {
 		"test": "nyc mocha index.spec",
-		"release": "npx np"
+		"release": "npx np",
+		"version": "auto-changelog -p && git add CHANGELOG.md"
 	},
 	"devDependencies": {
 		"eslint": "^6.0.1",
