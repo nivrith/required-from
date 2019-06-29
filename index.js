@@ -4,7 +4,8 @@
  * @returns {string}
  */
 module.exports = () => {
-  delete require.cache[module.parent.filename];
+	delete require.cache[module.parent.filename];
+	delete require.cache[__filename];
   var parent = module.parent.parent;
   while (parent) {
     try {
