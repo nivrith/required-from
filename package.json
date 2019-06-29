@@ -11,6 +11,7 @@
 		"release": "npx np",
 		"version": "auto-changelog -p && git add CHANGELOG.md"
 	},
+	"types": "index.d.ts",
 	"devDependencies": {
 		"eslint": "^6.0.1",
 		"mocha": "^6.1.4",
